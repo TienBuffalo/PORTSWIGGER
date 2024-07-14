@@ -1,0 +1,1 @@
+## Reflected XSS with AngularJS sandbox escape without strings

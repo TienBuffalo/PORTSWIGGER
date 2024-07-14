@@ -1,0 +1,1 @@
+## Reflected XSS protected by CSP, with CSP bypass

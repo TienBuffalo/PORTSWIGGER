@@ -1,0 +1,1 @@
+## Reflected XSS protected by very strict CSP, with dangling markup attack

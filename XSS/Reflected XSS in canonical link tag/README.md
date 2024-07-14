@@ -1,0 +1,1 @@
+## Reflected XSS in canonical link tag
